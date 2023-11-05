@@ -28,3 +28,4 @@ Got questions? Please check out the
 Please see the
 [Recent Updates](http://github.com/jackpal/Android-Terminal-Emulator/wiki/Recent-Updates)
 page for recent updates.
+
